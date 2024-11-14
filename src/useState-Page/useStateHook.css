@@ -1,0 +1,9 @@
+.h1 {
+    font-size: large;
+    color: black;
+}
+
+.button {
+    cursor: pointer;
+    padding: 9px;
+}
